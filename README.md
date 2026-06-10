@@ -19,7 +19,7 @@ Ik richt mij op het bouwen van robuuste, data-gedreven webapplicaties, met een s
 
 ## 🚀 Uitgelichte Projecten
 
-*   **PortfolioVR (Live):** Een uitgebreid, full-stack financieel dashboard. Maakt gebruik van complexe SQL queries (zoals Window functions), externe financiële API's (SEC, Profit.com) en veilige JWT-authenticatie met HttpOnly cookies om real-time data en historische trends te visualiseren.
+*   **PortfolioVR (Live):** Een uitgebreid, full-stack financieel dashboard. Maakt gebruik van complexe SQL queries, externe financiële API's (SEC, Profit.com) en veilige JWT-authenticatie om real-time data en historische trends te visualiseren.
 *   **Bedrijfs-ERP (Proof of Concept):** Een applicatie gericht op complexe datamodellering en backend bedrijfslogica, ontworpen om calculatie, prijzen en projectbeheer te stroomlijnen.
 *   **Cycling Fantasy Game:** Een interactief passieproject waarin ik externe sportdata verwerk, transformeer en koppel aan dynamische gebruikersinteractie.
 
@@ -30,4 +30,3 @@ Ik richt mij op het bouwen van robuuste, data-gedreven webapplicaties, met een s
 *   **LinkedIn:** [Arne Van Riel](https://www.linkedin.com/in/arne-van-riel-63b227185)
 *   **Email:** [arne.van.riel@hotmail.be](mailto:arne.van.riel@hotmail.be)
 
-> *"Van het calculeren van grote infrastructuurprojecten tot het ontwerpen van database architecturen: het doel is altijd het bouwen van een betrouwbare en solide fundering."*
