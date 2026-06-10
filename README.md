@@ -1,4 +1,4 @@
-# Hi daar, ik ben Arne! 👋
+# Ik ben Arne! 👋
 
 **Full-Stack Developer | Analytisch denker | Data-gedreven**
 
